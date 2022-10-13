@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\Mastermind_Game\Mastermind_Game\bin\Debug\Mastermind_Game.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Mastermind_Game\Mastermind_Game\bin\Debug\Mastermind_Game.exe
+c:\users\user\documents\visual studio 2012\Projects\Mastermind_Game\Mastermind_Game\bin\Debug\Mastermind_Game.pdb
+c:\users\user\documents\visual studio 2012\Projects\Mastermind_Game\Mastermind_Game\obj\Debug\Mastermind_Game.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Mastermind_Game\Mastermind_Game\obj\Debug\Mastermind_Game.exe
+c:\users\user\documents\visual studio 2012\Projects\Mastermind_Game\Mastermind_Game\obj\Debug\Mastermind_Game.pdb
